@@ -1,0 +1,13 @@
+import os
+import datetime
+import time
+n=1
+c,b,a=input("inter the date = ").slipt("/")
+hr,minn,sec=input("Enter the Time = ").slipt
+schedule_date = datetime.date(int(a),(b),(c))
+while n>0:
+    if time.localtime()_tm.hour==int(hr) and time.localtime().tm_min==int(minn) and time.localtime().tm_sec==int(sec) and datetime.time.today()==schedule date
+       os.startfile('C:\\Users\\Mr. Fair person\\Desktop\\Brand.pyar.mp3')
+       break
+    else:
+        n+=1
